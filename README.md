@@ -13,7 +13,8 @@
 - **涨停天梯**: 实时涨停股票池，连板高度统计，封单强度分析
 - **形态选股**: K线形态相似度匹配，基于Baostock历史数据
 - **善庄狙击**: 追踪高胜率游资潜伏标的，多因子评分系统
-- <img width="1824" height="798" alt="image" src="https://github.com/user-attachments/assets/8b6809fc-420a-4481-80f2-e5b400d90356" />
+ <img width="1482" height="801" alt="image" src="https://github.com/user-attachments/assets/3d6dc428-3bf9-41b7-9fff-3b75ae862515" />
+
 
 
 ### 🤖 交易辅助
